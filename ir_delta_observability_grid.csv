@@ -1,0 +1,5 @@
+Curve ID,Observable Tenor (Years),Stress Factor (%)
+USD.OIS,30,2
+EUR.OIS,20,0.9
+GBP.OIS,25,1.1
+JPY.OIS,15,0.8

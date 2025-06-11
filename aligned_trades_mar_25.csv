@@ -1,0 +1,51 @@
+trade_id,product_type,currency,option_type,notional,strike,expiry_tenor,maturity_tenor,trading_desk,as_of_date,Predicted IFRS13 Level
+T001,IRSwap,GBP,Payer,11903351,2.08,2,30,Rates Flow AMER,Mar-25,Level 3
+T002,IR Swaption,GBP,Receiver,21811794,3.34,5,20,Rates Flow AMER,Mar-25,Level 1
+T003,IR Swaption,EUR,Payer,17584017,2.52,5,30,Rates Flow APAC,Mar-25,Level 2
+T004,IRSwap,USD,Receiver,24954064,2.9,2,15,Rates Flow EMEA,Mar-25,Level 1
+T005,IR Swaption,EUR,Payer,13971774,4.37,2,20,Rates Flow AMER,Mar-25,Level 2
+T006,Bond,EUR,Payer,11103070,2.93,5,30,Rates Flow AMER,Mar-25,Level 2
+T007,IR Swaption,EUR,Receiver,20776653,2.22,3,20,Rates Flow APAC,Mar-25,Level 3
+T008,CapFloor,EUR,Receiver,18436654,4.73,2,10,Rates Flow AMER,Mar-25,Level 2
+T009,CapFloor,EUR,Receiver,21900618,2.68,5,20,Rates Flow APAC,Mar-25,Level 1
+T010,IRSwap,EUR,Receiver,20308395,3.6,5,15,Rates Flow AMER,Mar-25,Level 1
+T011,CapFloor,GBP,Payer,23845167,4.59,2,10,Rates Flow AMER,Mar-25,Level 2
+T012,CapFloor,JPY,Payer,18355692,4.67,5,20,Rates Flow AMER,Mar-25,Level 2
+T013,CapFloor,JPY,Receiver,17609207,2.22,2,15,Rates Flow EMEA,Mar-25,Level 2
+T014,Bond,EUR,Receiver,20178070,2.43,5,20,Rates Flow AMER,Mar-25,Level 2
+T015,CapFloor,GBP,Payer,15353876,2.73,2,20,Rates Flow EMEA,Mar-25,Level 1
+T016,IR Swaption,USD,Receiver,16444964,4.59,3,15,Rates Flow APAC,Mar-25,Level 3
+T017,IRSwap,EUR,Payer,18359508,4.99,3,30,Rates Flow EMEA,Mar-25,Level 1
+T018,IR Swaption,JPY,Receiver,14038756,2.65,3,10,Rates Flow APAC,Mar-25,Level 2
+T019,Bond,GBP,Payer,24213193,2.32,2,20,Rates Flow AMER,Mar-25,Level 2
+T020,IRSwap,USD,Receiver,10858283,3.71,2,20,Rates Flow AMER,Mar-25,Level 1
+T021,Bond,JPY,Receiver,23846426,4.97,5,10,Rates Flow APAC,Mar-25,Level 2
+T022,IRSwap,GBP,Receiver,22666213,2.43,5,30,Rates Flow AMER,Mar-25,Level 1
+T023,IR Swaption,EUR,Receiver,23488308,3.42,3,15,Rates Flow AMER,Mar-25,Level 1
+T024,IRSwap,GBP,Payer,16592683,4.97,5,20,Rates Flow AMER,Mar-25,Level 3
+T025,Bond,GBP,Receiver,23685994,2.05,3,10,Rates Flow EMEA,Mar-25,Level 2
+T026,IR Swaption,JPY,Receiver,20998991,4.35,5,15,Rates Flow AMER,Mar-25,Level 3
+T027,Bond,EUR,Receiver,12479264,4.46,2,10,Rates Flow AMER,Mar-25,Level 1
+T028,CapFloor,USD,Receiver,15262886,3.26,3,15,Rates Flow EMEA,Mar-25,Level 3
+T029,Bond,USD,Payer,18702060,2.62,3,30,Rates Flow AMER,Mar-25,Level 2
+T030,CapFloor,JPY,Receiver,19164943,3.06,5,20,Rates Flow AMER,Mar-25,Level 1
+T031,CapFloor,GBP,Receiver,13772642,4.82,3,20,Rates Flow AMER,Mar-25,Level 3
+T032,Bond,GBP,Receiver,15851946,3.68,5,20,Rates Flow EMEA,Mar-25,Level 3
+T033,Bond,JPY,Receiver,22969867,4.41,3,10,Rates Flow EMEA,Mar-25,Level 1
+T034,IRSwap,JPY,Receiver,22538259,3.44,2,20,Rates Flow AMER,Mar-25,Level 2
+T035,CapFloor,USD,Payer,14067770,2.15,5,15,Rates Flow AMER,Mar-25,Level 1
+T036,IR Swaption,JPY,Receiver,22035271,3.42,5,15,Rates Flow APAC,Mar-25,Level 1
+T037,Bond,JPY,Receiver,20914228,2.6,3,20,Rates Flow EMEA,Mar-25,Level 1
+T038,IR Swaption,EUR,Payer,12937099,3.25,2,10,Rates Flow EMEA,Mar-25,Level 1
+T039,IRSwap,USD,Payer,15006190,3.7,2,20,Rates Flow EMEA,Mar-25,Level 3
+T040,Bond,EUR,Receiver,14577446,2.58,2,20,Rates Flow APAC,Mar-25,Level 2
+T041,IRSwap,EUR,Payer,22358397,3.01,3,15,Rates Flow APAC,Mar-25,Level 3
+T042,Bond,JPY,Receiver,11455218,3.2,2,15,Rates Flow APAC,Mar-25,Level 2
+T043,CapFloor,USD,Receiver,16435310,2.71,3,20,Rates Flow EMEA,Mar-25,Level 3
+T044,IR Swaption,GBP,Receiver,21622728,2.71,5,10,Rates Flow EMEA,Mar-25,Level 1
+T045,Bond,GBP,Payer,20715797,4.75,3,20,Rates Flow AMER,Mar-25,Level 1
+T046,CapFloor,JPY,Payer,17633275,4.24,5,20,Rates Flow EMEA,Mar-25,Level 3
+T047,Bond,EUR,Payer,21414243,4.26,2,30,Rates Flow AMER,Mar-25,Level 2
+T048,IR Swaption,USD,Payer,23904521,3.64,5,15,Rates Flow AMER,Mar-25,Level 1
+T049,CapFloor,GBP,Receiver,11950183,4.04,5,30,Rates Flow APAC,Mar-25,Level 2
+T050,IR Swaption,JPY,Payer,18610869,3.25,5,10,Rates Flow AMER,Mar-25,Level 3

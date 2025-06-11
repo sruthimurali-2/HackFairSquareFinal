@@ -1,0 +1,7 @@
+streamlit
+openai
+pandas
+joblib
+requests
+scikit-learn
+streamlit-echarts
